@@ -1,0 +1,8 @@
+{
+    "source": "SFSL",
+	"contentType": "User",
+	"actionType": "CHANGE_PWD",
+	"anotherAction": "GET_RESET_DATA",
+	"destination": "SEBL-server",
+	"url": "http://10.33.254.209:8080/SEBL-server/jsonRequest"    
+}
